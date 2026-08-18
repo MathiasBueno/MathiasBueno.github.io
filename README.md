@@ -64,17 +64,13 @@ Aplicación móvil desarrollada en Kotlin para plataforma Android. Participació
 ### 🏥 [MediBridge Web Service](https://github.com/upc-pre-202601-si657-7944-VitalSync/medibridge.webservice)
 Web service backend para aplicación de salud (VitalSync). Desarrollo de APIs y servicios críticos.
 
----
-
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MathiasBueno&show_icons=true&theme=radical)
 
 ---
 
 ## 🎓 Educación
 
-- Estudiante de Ingeniería de Software
+- Secundaria completa
+- Estudiante de 8vo Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas
 - Experiencia en metodologías ágiles y desarrollo colaborativo
 - Formación continua en nuevas tecnologías
 
@@ -85,8 +81,8 @@ Web service backend para aplicación de salud (VitalSync). Desarrollo de APIs y 
 ¡Me encantaría conectar contigo! Puedes encontrarme en:
 
 - **GitHub:** [@MathiasBueno](https://github.com/MathiasBueno)
-- **Email:** [Tu email aquí]
-- **LinkedIn:** [Tu LinkedIn aquí]
+- **Email:** [mbuenope2506@gmail.com]
+- **LinkedIn:** [Mathias Eduardo Bueno Perales](www.linkedin.com/in/mathias-eduardo-bueno-perales-a51b423a4)
 
 ---
 
