@@ -82,7 +82,7 @@ Web service backend para aplicación de salud (VitalSync). Desarrollo de APIs y 
 
 - **GitHub:** [@MathiasBueno](https://github.com/MathiasBueno)
 - **Email:** [mbuenope2506@gmail.com]
-- **LinkedIn:** [Mathias Eduardo Bueno Perales](www.linkedin.com/in/mathias-eduardo-bueno-perales-a51b423a4)
+- **LinkedIn:** [Mathias Eduardo Bueno Perales](https://www.linkedin.com/in/mathias-eduardo-bueno-perales-a51b423a4)
 
 ---
 
