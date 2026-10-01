@@ -28,6 +28,11 @@ Soy un desarrollador en formación con experiencia en múltiples lenguajes y tec
 - **G3 Soluciones IoT - Documentación**
   - Contribución en documentación técnica de soluciones IoT
 
+
+- **G0X Diseño de Experimentos - Testing**
+  - Desarrollo de pruebas unitarias para el backend
+  - Elaboracion de pipeline de CI/CD con Jenkins y SonarQube
+
 ---
 
 ## 🛠️ Tecnologías
@@ -37,11 +42,13 @@ Soy un desarrollador en formación con experiencia en múltiples lenguajes y tec
 - Java
 - Kotlin
 - CSS/HTML
+- Python
+- C#
 
 **Tecnologías & Herramientas:**
 - Desarrollo Web (Frontend)
 - Desarrollo Móvil (Android/Kotlin)
-- Desarrollo Backend
+- Desarrollo Backend (Java, C#)
 - Control de versiones (Git)
 - Metodologías Ágiles
 
@@ -64,6 +71,8 @@ Aplicación móvil desarrollada en Kotlin para plataforma Android. Participació
 ### 🏥 [MediBridge Web Service](https://github.com/upc-pre-202601-si657-7944-VitalSync/medibridge.webservice)
 Web service backend para aplicación de salud (VitalSync). Desarrollo de APIs y servicios críticos.
 
+### 🏥 [G-0X-Diseno-de-Experimentos](https://github.com/G-0X-Diseno-de-Experimentos/backend.git)
+Backend con pipelines de CI/CD integrados con Jenkins y SonarQube, incluyendo pruebas unitarias y gestión de Checkstyle y control de pruebas con JaCoCo.
 
 ---
 
